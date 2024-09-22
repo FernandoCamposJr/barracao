@@ -41,10 +41,10 @@ Após instalar o Python, crie um ambiente virtual para o projeto. No PyCharm, vo
 
 Dentro do ambiente virtual, use o terminal do PyCharm para instalar as seguintes bibliotecas:
 
-```bash
+
 pip install pandas
 pip install matplotlib
-```
+
 
 Importação e Carregamento de Dados CSV
 O arquivo CSV é carregado no script usando a biblioteca Pandas. Abaixo está o código para carregar o arquivo CSV:
